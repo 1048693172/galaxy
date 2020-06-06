@@ -1,0 +1,13 @@
+on boot
+    setprop net.dns1 202.96.134.133
+    setprop net.dns2 202.96.128.68
+    setprop ro.build.product mini6410
+    setprop ro.product.device mini6410
+    setprop ro.radio.noril yes
+
+# fake some battery state
+    setprop status.battery.state Slow
+    setprop status.battery.level 5
+    setprop status.battery.level_raw  50
+    setprop status.battery.level_scale 9
+
