@@ -41,21 +41,15 @@
 - bootable                 ---启动引导相关代码
 - build                    ---存放系统编译规则及generic等基础开发包配置
 - cts                      ---兼容性测试套件标准
-- cloud                    ---云服务应用
---   home                   ---企业内部应用
---   mall                   ---电子商城应用
+- cloud                    ---云服务应用(home:企业内部应用, mall:电子商城应用)
 - developers               ---开发者目录
 - development              ---应用程序开发相关
 - device                   ---设备相关配置文件
 - docs                     ---API参考文件目录
 - external                 ---android使用的一些开源的模组
-- frameworks               ---核心框架C++语言
---   dataflow               ---人工智能引擎
---   renderflow             ---3D引擎
---   uc                     ---融合通信引擎
+- frameworks               ---核心框架C++语言(dataflow:人工智能引擎, renderflow:3D引擎, uc:融合通信引擎)
 - hardware                 ---部分厂家开源的硬解适配层HAL代码
 - kernel                   ---内核代码
-- out                      ---编译完成后的代码输出与此目录
 - packages                 ---应用程序包
 - prebuilts                ---x86和arm架构下预编译的一些资源
 - sdk                      ---sdk及模拟器
@@ -83,7 +77,7 @@
 
 ## 公众号
 
-Galaxy项目全套学习教程连载中，关注公众号「**OpenAILab**」第一时间获取。
+Galaxy项目全套学习教程连载中，关注公众号「**ABC前线**」第一时间获取。
 
 加微信群交流，公众号后台回复「**加群**」即可。
 
